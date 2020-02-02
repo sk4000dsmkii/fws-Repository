@@ -143,7 +143,7 @@ $
   test1234
   ```
 とする
- Debianのインストールについては[こちら](https://github.com/nsrg-fmlorg/students-2019/blob/master/VirtualMachineTeam/qemu-kvm/DebianInstallManual_(qemu.ver).md)を参照する。
+ Debianのインストールについては[こちら](https://github.com/sk4000dsmkii/fws-Repository/blob/master/fws-package/osInstallManual.md)を参照する。
 
 インストールが完了したらホストマシンに設定をしていく。
 
@@ -500,7 +500,7 @@ VNCとは、ネットワークに接続しているコンピュータをリモ�
     
     ※ipアドレスの後ろの:xはvnc番号である
 
-Debianのインストールについては[こちら](https://github.com/nsrg-fmlorg/students-2019/blob/master/VirtualMachineTeam/qemu-kvm/DebianInstallManual_(qemu.ver).md)
+Debianのインストールについては[こちら](https://github.com/sk4000dsmkii/fws-Repository/blob/master/fws-package/osInstallManual.md)
 
 
   #### ※既存のゲストOSを起動する場合
